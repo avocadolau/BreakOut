@@ -1,0 +1,6 @@
+﻿  Game.cpp
+D:\Git\BreakOut\BreakOut\BreakOut\Source\Game.cpp(252,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Git\BreakOut\BreakOut\BreakOut\Source\Game.cpp(259,65): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Git\BreakOut\BreakOut\BreakOut\Source\Game.cpp(265,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Git\BreakOut\BreakOut\BreakOut\Source\Game.cpp(268,66): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  BreakOut.vcxproj -> D:\Git\BreakOut\BreakOut\x64\Debug\BreakOut.exe

@@ -1,0 +1,517 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Git\\BreakOut\\BreakOut\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|solutionrelative:BreakOut\\Source\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Game\\BallObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|solutionrelative:BreakOut\\Source\\Game\\BallObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Game\\GameLevel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|solutionrelative:BreakOut\\Source\\Game\\GameLevel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Game\\GameLevel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|solutionrelative:BreakOut\\Source\\Game\\GameLevel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|solutionrelative:BreakOut\\Source\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|solutionrelative:BreakOut\\Source\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Utils\\TextRenderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|solutionrelative:BreakOut\\Source\\Utils\\TextRenderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Utils\\TextRenderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|solutionrelative:BreakOut\\Source\\Utils\\TextRenderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Utils\\stb_image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|solutionrelative:BreakOut\\Source\\Utils\\stb_image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Dependencies\\freetype-2.14.1\\include\\ft2build.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|solutionrelative:BreakOut\\Dependencies\\freetype-2.14.1\\include\\ft2build.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Game\\Powerup.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|solutionrelative:BreakOut\\Source\\Game\\Powerup.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Game\\BallObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|solutionrelative:BreakOut\\Source\\Game\\BallObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Utils\\ParticleGenerator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|solutionrelative:BreakOut\\Source\\Utils\\ParticleGenerator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Utils\\Shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|solutionrelative:BreakOut\\Source\\Utils\\Shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Utils\\PostProcessor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|solutionrelative:BreakOut\\Source\\Utils\\PostProcessor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Utils\\PostProcessor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|solutionrelative:BreakOut\\Source\\Utils\\PostProcessor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Utils\\ParticleGenerator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|solutionrelative:BreakOut\\Source\\Utils\\ParticleGenerator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Utils\\SpriteRenderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|solutionrelative:BreakOut\\Source\\Utils\\SpriteRenderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Utils\\Texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|solutionrelative:BreakOut\\Source\\Utils\\Texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Utils\\Texture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|solutionrelative:BreakOut\\Source\\Utils\\Texture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Utils\\ResourceManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|solutionrelative:BreakOut\\Source\\Utils\\ResourceManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Utils\\SpriteRenderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|solutionrelative:BreakOut\\Source\\Utils\\SpriteRenderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Utils\\ResourceManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|solutionrelative:BreakOut\\Source\\Utils\\ResourceManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Game\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|solutionrelative:BreakOut\\Source\\Game\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Game\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|solutionrelative:BreakOut\\Source\\Game\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Utils\\Shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|solutionrelative:BreakOut\\Source\\Utils\\Shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Dependencies\\glad\\src\\glad.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|solutionrelative:BreakOut\\Dependencies\\glad\\src\\glad.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|D:\\Git\\BreakOut\\BreakOut\\BREAKOUT\\DEPENDENCIES\\GLAD\\INCLUDE\\GLAD\\GLAD.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB3F14E8-E89A-4026-9882-985FDC8D1F41}|BreakOut\\BreakOut.vcxproj|solutionrelative:BREAKOUT\\DEPENDENCIES\\GLAD\\INCLUDE\\GLAD\\GLAD.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Powerup.h",
+              "DocumentMoniker": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Game\\Powerup.h",
+              "RelativeDocumentMoniker": "BreakOut\\Source\\Game\\Powerup.h",
+              "ToolTip": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Game\\Powerup.h",
+              "RelativeToolTip": "BreakOut\\Source\\Game\\Powerup.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-04T14:12:10.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GameObject.h",
+              "DocumentMoniker": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Game\\GameObject.h",
+              "RelativeDocumentMoniker": "BreakOut\\Source\\Game\\GameObject.h",
+              "ToolTip": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Game\\GameObject.h",
+              "RelativeToolTip": "BreakOut\\Source\\Game\\GameObject.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-04T11:03:08.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ResourceManager.cpp",
+              "DocumentMoniker": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Utils\\ResourceManager.cpp",
+              "RelativeDocumentMoniker": "BreakOut\\Source\\Utils\\ResourceManager.cpp",
+              "ToolTip": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Utils\\ResourceManager.cpp",
+              "RelativeToolTip": "BreakOut\\Source\\Utils\\ResourceManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-04T11:03:06.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ResourceManager.h",
+              "DocumentMoniker": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Utils\\ResourceManager.h",
+              "RelativeDocumentMoniker": "BreakOut\\Source\\Utils\\ResourceManager.h",
+              "ToolTip": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Utils\\ResourceManager.h",
+              "RelativeToolTip": "BreakOut\\Source\\Utils\\ResourceManager.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-04T11:03:06.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Game.cpp",
+              "RelativeDocumentMoniker": "BreakOut\\Source\\Game.cpp",
+              "ToolTip": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Game.cpp",
+              "RelativeToolTip": "BreakOut\\Source\\Game.cpp",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAgwKQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-04T07:50:41.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BallObject.cpp",
+              "DocumentMoniker": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Game\\BallObject.cpp",
+              "RelativeDocumentMoniker": "BreakOut\\Source\\Game\\BallObject.cpp",
+              "ToolTip": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Game\\BallObject.cpp",
+              "RelativeToolTip": "BreakOut\\Source\\Game\\BallObject.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-04T11:04:32.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SpriteRenderer.cpp",
+              "DocumentMoniker": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Utils\\SpriteRenderer.cpp",
+              "RelativeDocumentMoniker": "BreakOut\\Source\\Utils\\SpriteRenderer.cpp",
+              "ToolTip": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Utils\\SpriteRenderer.cpp",
+              "RelativeToolTip": "BreakOut\\Source\\Utils\\SpriteRenderer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-04T11:03:01.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game.h",
+              "DocumentMoniker": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Game.h",
+              "RelativeDocumentMoniker": "BreakOut\\Source\\Game.h",
+              "ToolTip": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Game.h",
+              "RelativeToolTip": "BreakOut\\Source\\Game.h",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-04T07:50:40.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "stb_image.h",
+              "DocumentMoniker": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Utils\\stb_image.h",
+              "RelativeDocumentMoniker": "BreakOut\\Source\\Utils\\stb_image.h",
+              "ToolTip": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Utils\\stb_image.h",
+              "RelativeToolTip": "BreakOut\\Source\\Utils\\stb_image.h",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-04T11:02:58.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\main.cpp",
+              "RelativeDocumentMoniker": "BreakOut\\Source\\main.cpp",
+              "ToolTip": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\main.cpp",
+              "RelativeToolTip": "BreakOut\\Source\\main.cpp",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-01T17:08:54.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameLevel.cpp",
+              "DocumentMoniker": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Game\\GameLevel.cpp",
+              "RelativeDocumentMoniker": "BreakOut\\Source\\Game\\GameLevel.cpp",
+              "ToolTip": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Game\\GameLevel.cpp",
+              "RelativeToolTip": "BreakOut\\Source\\Game\\GameLevel.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-04T11:04:22.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameLevel.h",
+              "DocumentMoniker": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Game\\GameLevel.h",
+              "RelativeDocumentMoniker": "BreakOut\\Source\\Game\\GameLevel.h",
+              "ToolTip": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Game\\GameLevel.h",
+              "RelativeToolTip": "BreakOut\\Source\\Game\\GameLevel.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-04T11:04:11.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TextRenderer.h",
+              "DocumentMoniker": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Utils\\TextRenderer.h",
+              "RelativeDocumentMoniker": "BreakOut\\Source\\Utils\\TextRenderer.h",
+              "ToolTip": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Utils\\TextRenderer.h",
+              "RelativeToolTip": "BreakOut\\Source\\Utils\\TextRenderer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-04T19:43:53.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TextRenderer.cpp",
+              "DocumentMoniker": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Utils\\TextRenderer.cpp",
+              "RelativeDocumentMoniker": "BreakOut\\Source\\Utils\\TextRenderer.cpp",
+              "ToolTip": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Utils\\TextRenderer.cpp",
+              "RelativeToolTip": "BreakOut\\Source\\Utils\\TextRenderer.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-04T19:44:31.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ft2build.h",
+              "DocumentMoniker": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Dependencies\\freetype-2.14.1\\include\\ft2build.h",
+              "RelativeDocumentMoniker": "BreakOut\\Dependencies\\freetype-2.14.1\\include\\ft2build.h",
+              "ToolTip": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Dependencies\\freetype-2.14.1\\include\\ft2build.h",
+              "RelativeToolTip": "BreakOut\\Dependencies\\freetype-2.14.1\\include\\ft2build.h",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-04T19:58:22.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ParticleGenerator.cpp",
+              "DocumentMoniker": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Utils\\ParticleGenerator.cpp",
+              "RelativeDocumentMoniker": "BreakOut\\Source\\Utils\\ParticleGenerator.cpp",
+              "ToolTip": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Utils\\ParticleGenerator.cpp",
+              "RelativeToolTip": "BreakOut\\Source\\Utils\\ParticleGenerator.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-04T12:31:40.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PostProcessor.cpp",
+              "DocumentMoniker": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Utils\\PostProcessor.cpp",
+              "RelativeDocumentMoniker": "BreakOut\\Source\\Utils\\PostProcessor.cpp",
+              "ToolTip": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Utils\\PostProcessor.cpp",
+              "RelativeToolTip": "BreakOut\\Source\\Utils\\PostProcessor.cpp",
+              "ViewState": "AgIAADcAAAAAAAAAAADwvygAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-04T12:49:05.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BallObject.h",
+              "DocumentMoniker": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Game\\BallObject.h",
+              "RelativeDocumentMoniker": "BreakOut\\Source\\Game\\BallObject.h",
+              "ToolTip": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Game\\BallObject.h",
+              "RelativeToolTip": "BreakOut\\Source\\Game\\BallObject.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-04T11:04:26.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ParticleGenerator.h",
+              "DocumentMoniker": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Utils\\ParticleGenerator.h",
+              "RelativeDocumentMoniker": "BreakOut\\Source\\Utils\\ParticleGenerator.h",
+              "ToolTip": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Utils\\ParticleGenerator.h",
+              "RelativeToolTip": "BreakOut\\Source\\Utils\\ParticleGenerator.h",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-04T12:31:06.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Shader.cpp",
+              "DocumentMoniker": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Utils\\Shader.cpp",
+              "RelativeDocumentMoniker": "BreakOut\\Source\\Utils\\Shader.cpp",
+              "ToolTip": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Utils\\Shader.cpp",
+              "RelativeToolTip": "BreakOut\\Source\\Utils\\Shader.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-04T11:03:05.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PostProcessor.h",
+              "DocumentMoniker": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Utils\\PostProcessor.h",
+              "RelativeDocumentMoniker": "BreakOut\\Source\\Utils\\PostProcessor.h",
+              "ToolTip": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Utils\\PostProcessor.h",
+              "RelativeToolTip": "BreakOut\\Source\\Utils\\PostProcessor.h",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvykAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-04T12:48:43.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GameObject.cpp",
+              "DocumentMoniker": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Game\\GameObject.cpp",
+              "RelativeDocumentMoniker": "BreakOut\\Source\\Game\\GameObject.cpp",
+              "ToolTip": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Game\\GameObject.cpp",
+              "RelativeToolTip": "BreakOut\\Source\\Game\\GameObject.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-04T11:03:22.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Texture.cpp",
+              "DocumentMoniker": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Utils\\Texture.cpp",
+              "RelativeDocumentMoniker": "BreakOut\\Source\\Utils\\Texture.cpp",
+              "ToolTip": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Utils\\Texture.cpp",
+              "RelativeToolTip": "BreakOut\\Source\\Utils\\Texture.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-04T11:02:57.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Texture.h",
+              "DocumentMoniker": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Utils\\Texture.h",
+              "RelativeDocumentMoniker": "BreakOut\\Source\\Utils\\Texture.h",
+              "ToolTip": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Utils\\Texture.h",
+              "RelativeToolTip": "BreakOut\\Source\\Utils\\Texture.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-04T11:02:54.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SpriteRenderer.h",
+              "DocumentMoniker": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Utils\\SpriteRenderer.h",
+              "RelativeDocumentMoniker": "BreakOut\\Source\\Utils\\SpriteRenderer.h",
+              "ToolTip": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Utils\\SpriteRenderer.h",
+              "RelativeToolTip": "BreakOut\\Source\\Utils\\SpriteRenderer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-04T11:05:07.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Shader.h",
+              "DocumentMoniker": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Utils\\Shader.h",
+              "RelativeDocumentMoniker": "BreakOut\\Source\\Utils\\Shader.h",
+              "ToolTip": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Source\\Utils\\Shader.h",
+              "RelativeToolTip": "BreakOut\\Source\\Utils\\Shader.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-04T11:03:03.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "glad.c",
+              "DocumentMoniker": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Dependencies\\glad\\src\\glad.c",
+              "RelativeDocumentMoniker": "BreakOut\\Dependencies\\glad\\src\\glad.c",
+              "ToolTip": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Dependencies\\glad\\src\\glad.c",
+              "RelativeToolTip": "BreakOut\\Dependencies\\glad\\src\\glad.c",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-03T12:37:44.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "glad.h",
+              "DocumentMoniker": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Dependencies\\glad\\include\\glad\\glad.h",
+              "RelativeDocumentMoniker": "BreakOut\\Dependencies\\glad\\include\\glad\\glad.h",
+              "ToolTip": "D:\\Git\\BreakOut\\BreakOut\\BreakOut\\Dependencies\\glad\\include\\glad\\glad.h",
+              "RelativeToolTip": "BreakOut\\Dependencies\\glad\\include\\glad\\glad.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-01T17:47:27.75Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 141,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
